@@ -1,0 +1,98 @@
+commit 9136511a862072eebfa0cd61abc532f7f9b551d7
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Sat Sep 17 21:21:46 2022 -0500
+
+    Agregando 2 párrafos
+
+commit 0789a8458604bd3d8daa3b995e158a0e5f4d6039
+Merge: 3d47c87 0ff3e91
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Sat Sep 17 21:19:09 2022 -0500
+
+    Resolviendo conflicto en  estaciones del año y fechas de inicio
+
+commit 3d47c877c4ba8c763cc0e43cb5048aca9c9386cc
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Sat Sep 17 20:45:33 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 0ff3e918a2f170f3ae473959ad1031c98a5095c5
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Sat Sep 17 20:45:33 2022 -0500
+
+    Agregando estaciones las estaciones del año
+
+commit f7634e50da9f8ec0b4c5c3c12bbf905e7124a232
+Merge: f952a51 e063856
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Sat Sep 17 16:09:16 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit e0638568c5fb50cf2945961f58e6f24c0f73f89c
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Sat Sep 17 16:03:02 2022 -0500
+
+    Agregando index.js al index.html
+
+commit f952a51c1c3d48b66e9be7ff4b3f317ad1aa2577
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Tue Sep 13 16:28:05 2022 -0500
+
+    Agregando style.css al index.html
+
+commit b1202c2be1f20b9f8e8a0c1a4d3e63343cc27920
+Merge: 8270598 5bcb128
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Tue Sep 13 16:14:40 2022 -0500
+
+    Merge branch 'js'
+
+commit 5bcb128b2f3d4b057358c05fdae0a0b521b29e49
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Tue Sep 13 16:08:20 2022 -0500
+
+    Creando index.js
+
+commit 8270598b0b9da5fc9c152835edc51b7892049cbf
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Tue Sep 13 16:02:56 2022 -0500
+
+    Creando style.css
+
+commit 704f887c0c4f73e3ebea023e0829623cce0b4a6b
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Tue Sep 13 15:57:35 2022 -0500
+
+    Creando index.html
+
+commit bde3a07361068765c40a5988a8d5cebee3c555fa
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Sun Sep 11 14:39:13 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 06ada42a4c957dc6377f7394570c84706fde8791
+Author: jebusperfidia <111469446+jebusperfidia@users.noreply.github.com>
+Date:   Tue Sep 6 16:05:22 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 085da7ba99d29ca66bfce4a6181b02430195f622
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Tue Sep 6 15:48:38 2022 -0500
+
+    Agregando más contenido al README
+
+commit 874a61da7bff267c1efce16b1411c7078fbcce94
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Sun Sep 4 15:05:06 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 0794e01f9d7d2e23976a8e37e20f5bf3b98ccaa8
+Author: jebus_perfidia@outlook.com <jesus.eduardo.camargo@outlook.com>
+Date:   Sun Sep 4 14:57:22 2022 -0500
+
+    Primer Commit 👀
